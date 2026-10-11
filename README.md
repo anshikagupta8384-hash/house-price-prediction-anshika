@@ -1,26 +1,27 @@
 # NY House Price Prediction
 
 ## Project Overview
-A machine learning project focused on predicting house prices using Python and regression techniques.
+This project focuses on predicting house prices using machine learning techniques.
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib and Seaborn
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Project Workflow
-- Data cleaning and preprocessing
+- Data exploration and cleaning
 - Exploratory Data Analysis (EDA)
-- Feature engineering
+- Feature preparation
 - Model training
 - Model evaluation
 
 ## Project Files
-- `house_price_prediction.ipynb` – Jupyter Notebook containing the project workflow and code.
-- `.pkl` file – Saved model or other serialized object used in the project.
+- `house_price_prediction.ipynb`: Notebook containing the project code and analysis.
+- `.pkl`: Saved model or serialized object, depending on its contents.
 
 ## Author
 Anshika | Aspiring Data Scientist
